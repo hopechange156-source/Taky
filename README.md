@@ -1,2 +1,2 @@
 # Taky
-Young dark and handsome 
+your going to need strength 
