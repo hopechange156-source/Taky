@@ -1,1 +1,18 @@
-
+">
+  ...
+  <profiles>
+    <profile>
+      <id>...</id>
+      <activation>...</activation>
+      <build>...</build>
+      <modules>...</modules>
+      <repositories>...</repositories>
+      <pluginRepositories>...</pluginRepositories>
+      <dependencies>...</dependencies>
+      <reporting>...</reporting>
+      <dependencyManagement>...</dependencyManagement>
+      <distributionManagement>...</distributionManagement>
+      <properties>...</properties>
+    </profile>
+  </profiles>
+</project>
